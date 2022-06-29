@@ -119,7 +119,7 @@ img {
     padding-top: 189px;
     padding-bottom: 100px;
     min-height: 811px;
-    background-image: url("/img/Bitmap.jpg");
+    background-image: url("img/Bitmap.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
